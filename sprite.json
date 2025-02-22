@@ -1,201 +1,201 @@
 {
-    "box_a": {
+    "box-a": {
         "x": 0,
         "y": 0,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "box_d": {
+    "box-d": {
         "x": 44,
         "y": 0,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "box_g": {
+    "box-g": {
         "x": 88,
         "y": 0,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "box_new": {
+    "box-new": {
         "x": 132,
         "y": 0,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "box_o": {
+    "box-o": {
         "x": 176,
         "y": 0,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "box_p": {
+    "box-p": {
         "x": 220,
         "y": 0,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_0R": {
+    "pudo-0R": {
         "x": 0,
         "y": 64,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_0X": {
+    "pudo-0X": {
         "x": 44,
         "y": 64,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_200R": {
+    "pudo-200R": {
         "x": 88,
         "y": 64,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_200X": {
+    "pudo-200X": {
         "x": 132,
         "y": 64,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_25R": {
+    "pudo-25R": {
         "x": 176,
         "y": 64,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_25X": {
+    "pudo-25X": {
         "x": 220,
         "y": 64,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_50R": {
+    "pudo-50R": {
         "x": 0,
         "y": 128,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_50X": {
+    "pudo-50X": {
         "x": 44,
         "y": 128,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_b": {
+    "pudo-b": {
         "x": 88,
         "y": 128,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_C": {
+    "pudo-C": {
         "x": 132,
         "y": 128,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_d": {
+    "pudo-d": {
         "x": 176,
         "y": 128,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_g": {
+    "pudo-g": {
         "x": 220,
         "y": 128,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_new": {
+    "pudo-new": {
         "x": 0,
         "y": 192,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_p": {
+    "pudo-p": {
         "x": 44,
         "y": 192,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "pudo_w": {
+    "pudo-w": {
         "x": 88,
         "y": 192,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "zbox_0": {
+    "zbox-0": {
         "x": 132,
         "y": 192,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "zbox_20R": {
+    "zbox-20R": {
         "x": 176,
         "y": 192,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "zbox_20X": {
+    "zbox-20X": {
         "x": 220,
         "y": 192,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "zbox_40R": {
+    "zbox-40R": {
         "x": 0,
         "y": 256,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "zbox_40X": {
+    "zbox-40X": {
         "x": 44,
         "y": 256,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "zbox_60R": {
+    "zbox-60R": {
         "x": 88,
         "y": 256,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "zbox_60X": {
+    "zbox-60X": {
         "x": 132,
         "y": 256,
         "width": 44,
         "height": 64,
         "pixelRatio": 1
     },
-    "zbox_C": {
+    "zbox-C": {
         "x": 176,
         "y": 256,
         "width": 44,
